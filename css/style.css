@@ -2,8 +2,7 @@ body {
   color: cornsilk;
   text-align: center;
   background-color: grey;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "Courier New", Courier, monospace;
   font-size: 20px;
   font-weight: bold;
 }
