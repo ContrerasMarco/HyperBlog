@@ -1,5 +1,4 @@
 body {
-  color: cornsilk;
   text-align: center;
   background-color: white;
   font-family: "Courier New", Courier, monospace;
@@ -16,6 +15,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
 }
 #cabecera {
   font-size: 35px;
