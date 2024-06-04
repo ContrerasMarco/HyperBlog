@@ -37,3 +37,11 @@ body {
 #styleparrafo {
   font-size: 17px;
 }
+#footerhyperblog{
+background-color: black;
+text-align: center;
+font-family:'Gill Sans';
+font-weight: bold;
+color: white;
+padding: 10px;
+}
