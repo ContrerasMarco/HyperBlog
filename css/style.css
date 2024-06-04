@@ -37,7 +37,7 @@ body {
 #styleparrafo {
   font-size: 17px;
 }
-#logo {
+#cabecera #logo {
   width: 50px;
   vertical-align: middle;
   padding: 0px 10px;
