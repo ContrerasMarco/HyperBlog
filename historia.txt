@@ -9,3 +9,7 @@ en camara parece alto peor no lo es
 marco es estudiante de frontd
 
 Agregamos a marxunxo al proyecto
+
+ahora estoy haciendo fork y clone el
+
+repositorio para colaborar con el proyecto.
