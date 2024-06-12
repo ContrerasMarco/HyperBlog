@@ -46,11 +46,11 @@ body {
   vertical-align: middle;
   padding: 0px 10px;
 }
-#footerhyperblog{
-background-color: #572770;
-text-align: center;
-font-family: 'Times New Roman', Times, serif;
-font-weight: bold;
-color: white;
-padding: 10px;
+#footerhyperblog {
+  background-color: #1956db;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: white;
+  padding: 10px;
 }
